@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\8.1\downloads\tubes\tubes\main.cpp
+	<iostream>
+
+1480914374 source:e:\uts ai\tubes\main.cpp
+	<iostream>
+	"tubes.h"
+
+1480914340 e:\uts ai\tubes\tubes.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1480861532 source:e:\uts ai\tubes\tubes.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	"tubes.h"
+
+1480934303 source:c:\users\8.1\downloads\tubes\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"tubes.h"
+
+1480931357 c:\users\8.1\downloads\tubes\tubes.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1480932741 source:c:\users\8.1\downloads\tubes\tubes.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	"tubes.h"
+
+1480934303 source:d:\kuliah\semester 5\tubes\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"tubes.h"
+
+1480931357 d:\kuliah\semester 5\tubes\tubes.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1480932741 source:d:\kuliah\semester 5\tubes\tubes.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	"tubes.h"
+
