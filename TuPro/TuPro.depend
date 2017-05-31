@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1480519083 source:e:\semester 5\tba\tupro\main.cpp
+	"header.h"
+
+1480518723 e:\semester 5\tba\tupro\header.h
+	<iostream>
+
+1480518723 source:e:\semester 5\tba\tupro\source.cpp
+	"header.h"
+

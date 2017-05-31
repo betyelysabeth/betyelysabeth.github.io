@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/model/AnggotaPerpustakaan.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/model/Aplikasi.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/model/Buku.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/Buku.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/model/Transaksi.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/Keanggotaan.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/LihatTransaksi.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/database/Database.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/controller/Driver.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/LihatBuku.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/Pengembalian.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/EditAnggota.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/model/Pustakawan.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/controller/Controller.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/Peminjaman.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/MenuUtama.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/EditBuku.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/LihatAnggota.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/TambahBuku.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/TambahAnggota.java</file>
+            <file>file:/home/satrio/NetBeansProjects/TubesTry/src/view/Transaksi.java</file>
+        </group>
+    </open-files>
+</project-private>

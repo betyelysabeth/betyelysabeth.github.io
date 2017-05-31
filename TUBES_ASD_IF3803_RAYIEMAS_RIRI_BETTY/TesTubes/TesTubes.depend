@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1385316878 source:e:\c++\testubes\main.cpp
+	<iostream>
+
+1449590942 source:d:\telkom university\tingkat 2\semester 3\algoritma struktur data\tubes\testubes\impdoc.cpp
+	"adtdoc.h"
+	"adttag.h"
+	<iostream>
+
+1449579683 d:\telkom university\tingkat 2\semester 3\algoritma struktur data\tubes\testubes\adtdoc.h
+	<string>
+
+1449592738 source:d:\telkom university\tingkat 2\semester 3\algoritma struktur data\tubes\testubes\impuser.cpp
+	"adtuser.h"
+	"adttag.h"
+	<iostream>
+
+1449579806 d:\telkom university\tingkat 2\semester 3\algoritma struktur data\tubes\testubes\adtuser.h
+	<string>
+
+1449578306 source:d:\telkom university\tingkat 2\semester 3\algoritma struktur data\tubes\testubes\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	"adttag.h"
+	"adtdoc.h"
+	"adtuser.h"
+
+1449579704 d:\telkom university\tingkat 2\semester 3\algoritma struktur data\tubes\testubes\adttag.h
+	"adtuser.h"
+	"adtdoc.h"
+	<string>
+
+1449589637 source:d:\telkom university\tingkat 2\semester 3\algoritma struktur data\tubes\testubes\imptag.cpp
+	"adttag.h"
+	<iostream>
+
+1449590942 source:d:\tubes_asd_if3803_rayiemas_riri_betty\testubes\impdoc.cpp
+	"adtdoc.h"
+	"adttag.h"
+	<iostream>
+
+1449579683 d:\tubes_asd_if3803_rayiemas_riri_betty\testubes\adtdoc.h
+	<string>
+
+1449579704 d:\tubes_asd_if3803_rayiemas_riri_betty\testubes\adttag.h
+	"adtuser.h"
+	"adtdoc.h"
+	<string>
+
+1449579806 d:\tubes_asd_if3803_rayiemas_riri_betty\testubes\adtuser.h
+	<string>
+
+1449589637 source:d:\tubes_asd_if3803_rayiemas_riri_betty\testubes\imptag.cpp
+	"adttag.h"
+	<iostream>
+
+1449592738 source:d:\tubes_asd_if3803_rayiemas_riri_betty\testubes\impuser.cpp
+	"adtuser.h"
+	"adttag.h"
+	<iostream>
+
+1449578306 source:d:\tubes_asd_if3803_rayiemas_riri_betty\testubes\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	"adttag.h"
+	"adtdoc.h"
+	"adtuser.h"
+
+1449590942 source:d:\semester 5\asd\tubes_asd_if3803_rayiemas_riri_betty\testubes\impdoc.cpp
+	"adtdoc.h"
+	"adttag.h"
+	<iostream>
+
+1449579683 d:\semester 5\asd\tubes_asd_if3803_rayiemas_riri_betty\testubes\adtdoc.h
+	<string>
+
+1449579704 d:\semester 5\asd\tubes_asd_if3803_rayiemas_riri_betty\testubes\adttag.h
+	"adtuser.h"
+	"adtdoc.h"
+	<string>
+
+1449579806 d:\semester 5\asd\tubes_asd_if3803_rayiemas_riri_betty\testubes\adtuser.h
+	<string>
+
+1449589637 source:d:\semester 5\asd\tubes_asd_if3803_rayiemas_riri_betty\testubes\imptag.cpp
+	"adttag.h"
+	<iostream>
+
+1449592738 source:d:\semester 5\asd\tubes_asd_if3803_rayiemas_riri_betty\testubes\impuser.cpp
+	"adtuser.h"
+	"adttag.h"
+	<iostream>
+
+1449578306 source:d:\semester 5\asd\tubes_asd_if3803_rayiemas_riri_betty\testubes\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	"adttag.h"
+	"adtdoc.h"
+	"adtuser.h"
+
